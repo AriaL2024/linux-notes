@@ -29,16 +29,16 @@ Linux has many different distributions. Every distribution has a special usage.
 All distributions use the same kernel but have different file scripts, desktop environments, and utility programs.
 
 Top five famous distributions:
-1-Debian
-2-Redhat
-3-Android
-4-Kali
-5-Ubuntu
+  1-Debian
+  2-Redhat
+  3-Android
+  4-Kali
+  5-Ubuntu
 
 Which Linux distribution is better for my job?
 The administrator should select a Linux distribution based on needs. You must consider:
-1-Availability
-2-Package Format
-3-Release cycle
-4-Administrator skill level
-5-Kind of hardware device
+  1-Availability
+  2-Package Format
+  3-Release cycle
+  4-Administrator skill level
+  5-Kind of hardware device
