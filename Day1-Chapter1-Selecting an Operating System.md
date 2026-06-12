@@ -60,4 +60,7 @@ The administrator should select a Linux distribution based on needs. You must co
   4-Administrator skill level
   
   5-Kind of hardware device
+
+
   
+written on: June 12 2026
