@@ -1,5 +1,7 @@
-Linux Essentials
-Day 2 - Chapter 2: Understanding Software Licensing
+#Linux Essentials
+
+
+##Day 2 - Chapter 2: Understanding Software Licensing
 What does copyright mean?
 Copyright means respecting software rights regarding copying.
 What does open source software mean?
