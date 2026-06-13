@@ -2,7 +2,7 @@
 
 
 
-##  Day1-Chapter1:Selecting an Operating System
+##  Day1 - Chapter 1:Selecting an Operating System
 
 What is an OS?
 
