@@ -1,36 +1,38 @@
-Linux Essential
+# Linux Essential
 
-Day1-Chapter1:Selecting an Operating System
+
+
+##  Day1-Chapter1:Selecting an Operating System
 
 What is an OS?
 
-It is the interface between programs and hardware.
+> It is the interface between programs and hardware.
 
 What is the OS Kernel?
 
-A user sends a request to a program, and the program sends this request to the OS kernel via messages called "system calls". The kernel receives these system calls and determines which hardware to use and how.
+> A user sends a request to a program, and the program sends this request to the OS kernel via messages called "system calls". The kernel receives these system calls and determines which hardware to use and how.
 
 What is a User Interface?
 
-A user interface means a kind of communication between a user and a program. The OS has two user interfaces: CLI and GUI.
+> A user interface means a kind of communication between a user and a program. The OS has two user interfaces: CLI and GUI.
 
-GUI:It has graphical elements (buttons, menus, etc).
+  - GUI:It has graphical elements (buttons, menus, etc).
 
-CLI:It works by commands and has no graphical elements.
+  - CLI:It works by commands and has no graphical elements.
 
 What is the difference between Linux and macOS?
-Linux and macOS are Unix-based, but they have many differences.
+> Linux and macOS are Unix-based, but they have many differences.
 Linux is open source and created by Linus Torvalds. macOS is closed source and created by Apple.
 Although Both are Unix-based,they cannot run same program.
 Both can be used as a server.
 
 What is the difference between Linux and Windows?
-Linux and Windows have a different structures.
+> Linux and Windows have a different structures.
 Linux is open source and created by Linus Torvalds. Windows is closed source and created by Microsoft.
 Linux and Windows cannot execute the same programs because they have different structures.
 If you want to use Windows as a server, "Microsoft Windows Server" must be installed.
 
-Linux Distributions
+### Linux Distributions
 
 Linux has many different distributions. Every distribution has a special usage.
 All distributions use the same kernel but have different file scripts, desktop environments, and utility programs.
@@ -51,15 +53,15 @@ Which Linux distribution is better for my job?
 
 The administrator should select a Linux distribution based on needs. You must consider:
 
-  1-Availability
+  - Availability
   
-  2-Package Format
+  - ackage Format
   
-  3-Release cycle
+  - Release cycle
   
-  4-Administrator skill level
+  - Administrator skill level
   
-  5-Kind of hardware device
+  - Kind of hardware device
 
 
   
