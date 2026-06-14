@@ -12,11 +12,11 @@ Today,many computers architecture are x64,but previously x86 and x16 were used f
 OSes have several architectures:
 
   - Monolithic:it's not flexible and modular,but this has vary speed.this structure doesn't have structure
-  - layer-base:it's flexible and modular,this has normal speed
+  - Layer-base:it's flexible and modular,this has normal speed
   - Mircrokernel:it's very flexible and modular,but this has low speed for process
   - Hybrid:Combination of the Top architectures
 
-throughout history,many OSe were Created,for eaxmple:
+throughout history,many OSe were Created,for example:
 
 | OS Name | OS architecture | Base on | 
 |---------|-----------------|--------------|
@@ -29,22 +29,22 @@ throughout history,many OSe were Created,for eaxmple:
 
 The evolution of linux:
 
-  - improvements in linux kernel
-  - improvement in support tools
+  - Improvements in linux kernel
+  - Improvement in support tools
   - Creation of new support tools
   - Creation of new Distribution
 
 Classification of software from bazaar perspective:
-  - freeware:this software is free,but is not necessarily open source(for example wordpad)
-  - shareware:it has N days free trial
-  - commercial:to use this software,you must pay some money
-  - open source:it must follow osi laws
+  - Freeware:this software is free,but is not necessarily open source(for example wordpad)
+  - Shareware:it has N days free trial
+  - Commercial:to use this software,you must pay some money
+  - Open source:it must follow osi laws
 
 Roles of computers over time:
 
   - Embedded:DVR,Iot Device,Mobiles,...
   - Personal Computer:laptop,PC,...
-  - Server:web sever,dns sever,file server,...
+  - Server:web server,dns server,file server,...
 
 
 written on: June 14 2026
