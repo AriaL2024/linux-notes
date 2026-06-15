@@ -112,6 +112,8 @@ Some Online PMSs:
   - zypper: this is used by OpenSUSE
   - snap: this is used by Ubuntu
 
+written on: June 15 2026
+
   
 
 
