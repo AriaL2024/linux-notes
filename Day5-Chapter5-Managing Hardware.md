@@ -5,7 +5,7 @@
 
 What is the CPU?
 
-  > a CPU must Execute all of the Instructions in a computer system.
+  > A CPU must Execute all of the Instructions in a computer system.
 
 
 Several organizations produce the CPU in the world (for example intel ,AMD)
@@ -13,6 +13,7 @@ Several organizations produce the CPU in the world (for example intel ,AMD)
 Types of the CPU:
   - x86
   - x64
+
 What is the Power Supply(PS)?
 
   > The Power Supply must Support and contorl Power of the System.
@@ -30,7 +31,7 @@ Types of the chip on the motherboard:
   - Secondary chips: They are used to connect the sub-modules of system(for example usb-module)
 What is the Disk Interface?
 
-  > a Disk Interface is a techonlogy that it can connect a disk to a computer
+  > A Disk Interface is a techonlogy that it can connect a disk to a computer
 
 Types of the Disk Interface:
   - PATA or IDE
@@ -38,7 +39,7 @@ Types of the Disk Interface:
   - SCSI
 What is the Partition?
 
-  > the Partition helps us manage disk space easily
+  > The Partition helps us manage disk space easily
 
 Today,several partition formats are installed on your disk.Some partition formats are MBR and GPT and APM  
 Types of the Partition:
@@ -50,7 +51,7 @@ What is the File System?
   > The file system helps us classify and contorl data on the disk
 
 Types of the file system:
-  - the file systems used on the disk:
+  - The file systems used on the disk:
     - ext2
     - ext3
     - ext4
@@ -63,7 +64,7 @@ Types of the file system:
     - NTFS
     - HFS
     - HFS+
-  - the file systems used on the DVD, and the CD-ROM:
+  - The file systems used on the DVD, and the CD-ROM:
     - ISO 9660
     - UDF
 
