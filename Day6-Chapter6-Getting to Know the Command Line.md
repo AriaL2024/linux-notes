@@ -17,6 +17,7 @@ Everything in Linux is a file.
 
 
 The important commands for this section are:
+```
 
 user@system$ nano file1.txt
 user@system$ touch file1.txt
@@ -44,7 +45,7 @@ user@system$ rm -r dir1
 
 user@system$ locate COMMAND
 
-
+```
 What is the terminal?
 
    > Users use a terminal to send commands to the shell.
@@ -59,6 +60,7 @@ What is the man page?
 
 The important commands for this section are:
 
+```
 user@system$ man COMMAND
 user@system$ man -k COMMAND
 user@system$ man SECTION_NUMBER COMMAND
@@ -75,15 +77,21 @@ user@system$ man -s COMMAND
 user@system$ whatis COMMAND
 user@system$ mackwhatis
 user@system$ whereis COMMAND
-
+```
 
 What is the environment variable?
-   > When an OS is booted,the OS creates some variables called "Environment Variables(EV)".The enviroment variable can help the shell to works.
+   > When an OS is booted,the OS creates some variables called "Environment Variables(EV)".The enviroment variable can
+help the shell to works.
+
 These variables are used by programmers to program easily.
+
 The important commands for this section are:
+
+```
 
 user@system$ print env
 user@system$ env
+
 user@system$ echo $PATH
 user@system$ echo aria
 user@system$ echo "aria"
@@ -101,5 +109,6 @@ user@system$ history
 user@system$ history 5
 user@system$ history c
 
+```
 
 written on: June 17 2026
