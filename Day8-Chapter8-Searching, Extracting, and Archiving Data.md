@@ -29,7 +29,9 @@ user@system$ grep -E "^[^a]|c..b*|free$" file.A
 What is an archive?
    > Users can group the files by using archive tools
 Linux has two tools for archiving: tar,zip
+
 Zip can also compress files.  
+
 The important commands for this section are:
 
 ```
@@ -45,6 +47,7 @@ user@system$ tar jxvf backup.tar
 Linux supports three common algorithms for data compression.These algorithms are xz,bzip2,gzip 
 What is redirection?
    > We can save the output of commands by using redirection.
+
 Several redirection commands in Linux:
   - ">"
   - ">>"
