@@ -9,18 +9,17 @@ Types of regular expressions:
   - basic
   - Extended
 Several regular expression characters (metacharacters) are:
-  - *
-  - .
-  - |
+  - "*"
+  - "."
+  - "|"
   - []
-  - ^
-  - $
-  - -
-  - ?
-  - +
+  - "^"
+  - "$"
+  - "-"
+  - "?"
+  - "+"
 The important commands for this section are:
 ```
-
 user@system$ grep ^[^a] file.A
 
 user@system$ grep a.b file.A
@@ -32,6 +31,7 @@ What is an archive?
 Linux has two tools for archiving: tar,zip
 Zip can also compress files.  
 The important commands for this section are:
+
 ```
 user@system$ tar cvf backup.tar file.txt
 
@@ -40,18 +40,17 @@ user@system$ tar xvf backup.tar
 user@system$ tar cvjf backup.tar file.txt
 
 user@system$ tar jxvf backup.tar 
-
 ```
 
 Linux supports three common algorithms for data compression.These algorithms are xz,bzip2,gzip 
 What is redirection?
    > We can save the output of commands by using redirection.
 Several redirection commands in Linux:
-  - >
-  - >>
-  - 2>
-  - 2>>
-  - &>
+  - ">"
+  - ">>"
+  - "2>"
+  - "2>>"
+  - "&>"
 
 The important commands for this chapter are:
   - tar
