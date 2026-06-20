@@ -6,7 +6,12 @@
 What is a Software Package Management System(PMS)?
   > By using a PMS, Linux administrators can install software packages on Linux.
 
+
+
 A PMS handles software dependencies, architecture info, version numbers, binary files, and libraries.
+
+
+
 What can PMS do?
   - install a package
   - remove a package
@@ -15,6 +20,7 @@ What can PMS do?
 
 What is a Repository?
   > A repository is a database for storing software. Repositories are usually located on a disk or a server on the Internet.
+
 
 Each country has several repositories for internal usage.
 
@@ -74,9 +80,13 @@ What is a process?
    > A process is a task created by a program or a user.
 
 The CPU must execute a process and finish it.
+
 Each process has a unique identification number called a "Process ID (PID)".
+
 Each process has a parent.
+
 Linux users can see processes using the top and ps tools.
+
 Linux creates a tree structure for processes.
 
 The important commands for this section are:
